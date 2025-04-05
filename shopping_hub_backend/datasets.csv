@@ -1,0 +1,501 @@
+ProductID,ProductName,Category,Price,CustomerRating,Reviews,DeliveryTime,Discount,Platform
+G201,Sugar 1kg,Grocery,229,4.5,Fresh and tasty,1 Day,12%,GroceMate
+G202,Tea Powder 250g,Grocery,249,4.3,Fast delivery,1 Day,14%,GroceMate
+G203,Tea Powder 250g,Grocery,227,4.1,Excellent quality,1 Day,12%,GroceMate
+C101,Slim Fit Jeans,Clothing,1663,4.3,Excellent quality,3 Days,8%,StyleCart
+F301,Butter Naan,Food Delivery,107,4.6,Good service,30 Mins,4%,QuickBite
+G204,Amul Butter 100g,Grocery,99,4.4,Satisfying experience,Same Day,15%,GroceMate
+G205,Britannia Bread,Grocery,41,4.6,Will buy again,1 Day,18%,GroceMate
+G206,Toor Dal 500g,Grocery,200,4,Fresh and tasty,Same Day,10%,GroceMate
+G207,Aashirvaad Atta 5kg,Grocery,234,4.3,Comfortable and stylish,1 Day,16%,GroceMate
+G208,Amul Butter 100g,Grocery,191,4.1,Highly recommended,Same Day,18%,GroceMate
+F302,Pav Bhaji,Food Delivery,229,4.7,Comfortable and stylish,25 Mins,6%,QuickBite
+G209,Britannia Bread,Grocery,154,4.4,Fresh and tasty,Same Day,5%,GroceMate
+F303,Sushi (Restaurant M),Food Delivery,267,4.6,Comfortable and stylish,30 Mins,7%,QuickBite
+C102,Denim Jacket,Clothing,444,4.6,Fresh and tasty,2 Days,17%,StyleCart
+F304,Chicken Wings,Food Delivery,234,4.3,Highly recommended,45 Mins,11%,QuickBite
+G210,Organic Rice 1kg,Grocery,104,4.5,Satisfying experience,Same Day,8%,GroceMate
+G211,Aashirvaad Atta 5kg,Grocery,217,4.1,Perfect packaging,Same Day,10%,GroceMate
+G212,Organic Rice 1kg,Grocery,242,4.5,Will buy again,Same Day,9%,GroceMate
+C103,Denim Jacket,Clothing,657,4.7,Fast delivery,4 Days,16%,StyleCart
+F305,Margherita Pizza,Food Delivery,141,4.5,Comfortable and stylish,30 Mins,17%,QuickBite
+G213,Organic Rice 1kg,Grocery,214,4,Great value for money,1 Day,6%,GroceMate
+G214,Tea Powder 250g,Grocery,229,4.4,Will buy again,Same Day,13%,GroceMate
+F306,Veg Thali,Food Delivery,174,4.4,Will buy again,25 Mins,14%,QuickBite
+G215,Sugar 1kg,Grocery,78,4.3,Will buy again,1 Day,5%,GroceMate
+C104,Ankle Socks (Pack of 5),Clothing,1280,4.4,Satisfying experience,3 Days,7%,StyleCart
+C105,Chinos Trousers,Clothing,904,4.7,Highly recommended,2 Days,9%,StyleCart
+C106,Graphic Hoodie,Clothing,787,4.6,Great value for money,4 Days,10%,StyleCart
+G216,Sugar 1kg,Grocery,131,4.2,Great value for money,Same Day,19%,GroceMate
+G217,Organic Rice 1kg,Grocery,126,4.4,Perfect packaging,Same Day,6%,GroceMate
+F307,Chicken Wings,Food Delivery,277,4.5,Excellent quality,30 Mins,20%,QuickBite
+C107,Formal Shirt,Clothing,1358,4.1,Perfect packaging,2 Days,18%,StyleCart
+C108,Cotton T-Shirt,Clothing,1001,4.4,Good service,3 Days,19%,StyleCart
+C109,Denim Jacket,Clothing,528,4.8,Great value for money,3 Days,13%,StyleCart
+C110,Formal Shirt,Clothing,1064,4.5,Fast delivery,3 Days,13%,StyleCart
+F308,Margherita Pizza,Food Delivery,150,4.4,Fresh and tasty,30 Mins,2%,QuickBite
+G218,Maggi Noodles (4 pack),Grocery,107,4.5,Excellent quality,Same Day,3%,GroceMate
+F309,Pizza (Restaurant K),Food Delivery,249,4.7,Great value for money,30 Mins,18%,QuickBite
+G219,Organic Rice 1kg,Grocery,178,4.2,Comfortable and stylish,1 Day,17%,GroceMate
+C111,Women’s Kurti,Clothing,1460,4.7,Will buy again,4 Days,15%,StyleCart
+G220,Tea Powder 250g,Grocery,194,4.8,Good service,1 Day,5%,GroceMate
+F310,Masala Dosa,Food Delivery,184,4,Great value for money,30 Mins,18%,QuickBite
+G221,Milk (1L),Grocery,136,4.2,Highly recommended,1 Day,4%,GroceMate
+G222,Amul Butter 100g,Grocery,117,4.1,Fast delivery,1 Day,2%,GroceMate
+F311,Grilled Sandwich,Food Delivery,97,4.6,Good service,35 Mins,12%,QuickBite
+F312,Burger (Restaurant M),Food Delivery,206,4.5,Highly recommended,25 Mins,9%,QuickBite
+G223,Aashirvaad Atta 5kg,Grocery,166,4.1,Satisfying experience,1 Day,4%,GroceMate
+F313,Fried Rice,Food Delivery,126,4.5,Will buy again,30 Mins,3%,QuickBite
+C112,Chinos Trousers,Clothing,1237,4.7,Perfect packaging,2 Days,5%,StyleCart
+C113,Ankle Socks (Pack of 5),Clothing,1707,4.7,Fast delivery,4 Days,6%,StyleCart
+F314,Fried Rice,Food Delivery,281,4.7,Satisfying experience,25 Mins,12%,QuickBite
+C114,Running Shoes,Clothing,499,4.5,Satisfying experience,2 Days,2%,StyleCart
+F315,Pizza (Restaurant M),Food Delivery,299,4.5,Fast delivery,35 Mins,20%,QuickBite
+F316,Burger (Restaurant K),Food Delivery,255,4.4,Will buy again,25 Mins,2%,QuickBite
+G224,Tea Powder 250g,Grocery,174,4.1,Great value for money,1 Day,13%,GroceMate
+G225,Tea Powder 250g,Grocery,57,4.8,Great value for money,Same Day,6%,GroceMate
+C115,Formal Shirt,Clothing,963,4.4,Fresh and tasty,3 Days,12%,StyleCart
+C116,Graphic Hoodie,Clothing,1226,4.3,Highly recommended,4 Days,7%,StyleCart
+C117,Running Shoes,Clothing,346,4.2,Great value for money,2 Days,9%,StyleCart
+F317,Paneer Butter Masala,Food Delivery,178,4.3,Will buy again,30 Mins,16%,QuickBite
+F318,Burger (Restaurant K),Food Delivery,298,4.3,Will buy again,30 Mins,13%,QuickBite
+C118,Sports Jacket,Clothing,1574,4.7,Good service,4 Days,4%,StyleCart
+F319,Chicken Biryani,Food Delivery,128,4.6,Perfect packaging,45 Mins,6%,QuickBite
+G226,Toor Dal 500g,Grocery,104,4.4,Perfect packaging,Same Day,3%,GroceMate
+F320,Chicken Biryani,Food Delivery,190,4.1,Will buy again,35 Mins,16%,QuickBite
+G227,Amul Butter 100g,Grocery,156,4.2,Will buy again,Same Day,19%,GroceMate
+C119,Women’s Kurti,Clothing,1496,4,Great value for money,4 Days,9%,StyleCart
+G228,Organic Rice 1kg,Grocery,246,4.5,Highly recommended,Same Day,20%,GroceMate
+G229,Fortune Oil 1L,Grocery,77,4.1,Fresh and tasty,Same Day,19%,GroceMate
+C120,Graphic Hoodie,Clothing,1664,4.7,Good service,4 Days,3%,StyleCart
+G230,Amul Butter 100g,Grocery,95,4.6,Satisfying experience,Same Day,13%,GroceMate
+G231,Fortune Oil 1L,Grocery,50,4.7,Excellent quality,1 Day,14%,GroceMate
+C121,Slim Fit Jeans,Clothing,1226,4.7,Comfortable and stylish,3 Days,10%,StyleCart
+F321,Pizza (Restaurant K),Food Delivery,197,4.1,Fast delivery,35 Mins,3%,QuickBite
+F322,Pizza (Restaurant K),Food Delivery,201,4.2,Will buy again,30 Mins,19%,QuickBite
+C122,Denim Jacket,Clothing,540,4.2,Comfortable and stylish,2 Days,13%,StyleCart
+C123,Cotton T-Shirt,Clothing,592,4.4,Fresh and tasty,4 Days,9%,StyleCart
+G232,Amul Butter 100g,Grocery,143,4.7,Comfortable and stylish,Same Day,3%,GroceMate
+F323,Sushi (Restaurant M),Food Delivery,289,4.4,Comfortable and stylish,30 Mins,3%,QuickBite
+F324,Pav Bhaji,Food Delivery,264,4.4,Great value for money,45 Mins,15%,QuickBite
+C124,Graphic Hoodie,Clothing,1143,4.5,Good service,3 Days,10%,StyleCart
+G233,Fortune Oil 1L,Grocery,103,4.3,Will buy again,1 Day,18%,GroceMate
+C125,Slim Fit Jeans,Clothing,1383,4.6,Excellent quality,4 Days,5%,StyleCart
+C126,Formal Shirt,Clothing,862,4.6,Highly recommended,3 Days,17%,StyleCart
+F325,Pizza (Restaurant M),Food Delivery,134,4.4,Excellent quality,30 Mins,17%,QuickBite
+F326,Fried Rice,Food Delivery,289,4.5,Fast delivery,45 Mins,11%,QuickBite
+F327,Pizza (Restaurant M),Food Delivery,250,4,Great value for money,30 Mins,7%,QuickBite
+G234,Aashirvaad Atta 5kg,Grocery,218,4.2,Perfect packaging,1 Day,20%,GroceMate
+F328,Pizza (Restaurant L),Food Delivery,265,4.8,Comfortable and stylish,45 Mins,19%,QuickBite
+F329,Paneer Butter Masala,Food Delivery,165,4,Comfortable and stylish,35 Mins,11%,QuickBite
+G235,Milk (1L),Grocery,169,4.4,Highly recommended,1 Day,4%,GroceMate
+C127,Cotton T-Shirt,Clothing,1163,4.7,Great value for money,2 Days,10%,StyleCart
+C128,Formal Shirt,Clothing,412,4.4,Fast delivery,4 Days,8%,StyleCart
+G236,Tea Powder 250g,Grocery,150,4.2,Satisfying experience,Same Day,12%,GroceMate
+G237,Sugar 1kg,Grocery,48,4.4,Fresh and tasty,Same Day,14%,GroceMate
+F330,Burger (Restaurant K),Food Delivery,194,4.2,Good service,45 Mins,6%,QuickBite
+G238,Sugar 1kg,Grocery,189,4.2,Highly recommended,Same Day,14%,GroceMate
+G239,Maggi Noodles (4 pack),Grocery,242,4.5,Excellent quality,1 Day,3%,GroceMate
+F331,Fried Rice,Food Delivery,157,4.2,Will buy again,35 Mins,9%,QuickBite
+F332,Veg Thali,Food Delivery,225,4.1,Good service,35 Mins,12%,QuickBite
+F333,Fried Rice,Food Delivery,269,4.2,Highly recommended,45 Mins,13%,QuickBite
+G240,Fortune Oil 1L,Grocery,216,4.7,Great value for money,Same Day,18%,GroceMate
+C129,Slim Fit Jeans,Clothing,1220,4.6,Great value for money,4 Days,11%,StyleCart
+F334,Sushi (Restaurant L),Food Delivery,281,4.7,Satisfying experience,45 Mins,10%,QuickBite
+C130,Chinos Trousers,Clothing,1694,4,Highly recommended,3 Days,9%,StyleCart
+G241,Tea Powder 250g,Grocery,230,4.6,Good service,1 Day,5%,GroceMate
+F335,Masala Dosa,Food Delivery,179,4.2,Great value for money,35 Mins,19%,QuickBite
+F336,Paneer Butter Masala,Food Delivery,110,4.3,Excellent quality,45 Mins,20%,QuickBite
+G242,Organic Rice 1kg,Grocery,178,4.4,Fast delivery,Same Day,13%,GroceMate
+G243,Aashirvaad Atta 5kg,Grocery,224,4.3,Satisfying experience,1 Day,17%,GroceMate
+G244,Milk (1L),Grocery,52,4.2,Excellent quality,Same Day,11%,GroceMate
+F337,Sushi (Restaurant K),Food Delivery,136,4.6,Will buy again,30 Mins,12%,QuickBite
+G245,Toor Dal 500g,Grocery,176,4.5,Excellent quality,Same Day,15%,GroceMate
+G246,Organic Rice 1kg,Grocery,172,4,Excellent quality,Same Day,14%,GroceMate
+G247,Organic Rice 1kg,Grocery,232,4.7,Will buy again,Same Day,14%,GroceMate
+G248,Aashirvaad Atta 5kg,Grocery,194,4,Satisfying experience,1 Day,7%,GroceMate
+G249,Aashirvaad Atta 5kg,Grocery,79,4.5,Highly recommended,1 Day,10%,GroceMate
+C131,Running Shoes,Clothing,1883,4.8,Satisfying experience,3 Days,10%,StyleCart
+C132,Chinos Trousers,Clothing,663,4,Will buy again,4 Days,20%,StyleCart
+G250,Britannia Bread,Grocery,183,4.8,Satisfying experience,1 Day,20%,GroceMate
+G251,Fortune Oil 1L,Grocery,213,4.3,Fresh and tasty,1 Day,8%,GroceMate
+F338,Paneer Butter Masala,Food Delivery,135,4.3,Will buy again,30 Mins,2%,QuickBite
+F339,Grilled Sandwich,Food Delivery,275,4.4,Excellent quality,45 Mins,20%,QuickBite
+C133,Chinos Trousers,Clothing,911,4.3,Fast delivery,2 Days,3%,StyleCart
+F340,Sushi (Restaurant K),Food Delivery,231,4.6,Will buy again,25 Mins,17%,QuickBite
+G252,Toor Dal 500g,Grocery,49,4.8,Will buy again,1 Day,18%,GroceMate
+F341,Paneer Butter Masala,Food Delivery,159,4,Will buy again,25 Mins,14%,QuickBite
+F342,Fried Rice,Food Delivery,299,4.1,Comfortable and stylish,25 Mins,19%,QuickBite
+F343,Paneer Butter Masala,Food Delivery,284,4.6,Fresh and tasty,25 Mins,20%,QuickBite
+F344,Sushi (Restaurant K),Food Delivery,101,4.5,Highly recommended,30 Mins,18%,QuickBite
+G253,Maggi Noodles (4 pack),Grocery,209,4.6,Fast delivery,Same Day,4%,GroceMate
+C134,Running Shoes,Clothing,1534,4.1,Excellent quality,3 Days,3%,StyleCart
+G254,Toor Dal 500g,Grocery,72,4.4,Highly recommended,Same Day,16%,GroceMate
+C135,Slim Fit Jeans,Clothing,1977,4.6,Satisfying experience,3 Days,3%,StyleCart
+F345,Fried Rice,Food Delivery,231,4.3,Will buy again,35 Mins,15%,QuickBite
+C136,Chinos Trousers,Clothing,1035,4.6,Comfortable and stylish,4 Days,5%,StyleCart
+G255,Aashirvaad Atta 5kg,Grocery,145,4,Comfortable and stylish,Same Day,8%,GroceMate
+G256,Organic Rice 1kg,Grocery,49,4.3,Fast delivery,Same Day,14%,GroceMate
+C137,Denim Jacket,Clothing,514,4.5,Perfect packaging,2 Days,7%,StyleCart
+G257,Toor Dal 500g,Grocery,49,4,Good service,1 Day,17%,GroceMate
+C138,Sports Jacket,Clothing,620,4.5,Fresh and tasty,4 Days,11%,StyleCart
+G258,Tea Powder 250g,Grocery,66,4.7,Fresh and tasty,Same Day,5%,GroceMate
+C139,Chinos Trousers,Clothing,408,4.5,Satisfying experience,3 Days,16%,StyleCart
+C140,Sports Jacket,Clothing,1970,4.1,Highly recommended,4 Days,17%,StyleCart
+G259,Amul Butter 100g,Grocery,124,4.7,Perfect packaging,1 Day,14%,GroceMate
+G260,Maggi Noodles (4 pack),Grocery,62,4,Fast delivery,Same Day,18%,GroceMate
+F346,Veg Thali,Food Delivery,143,4.4,Excellent quality,45 Mins,14%,QuickBite
+F347,Fried Rice,Food Delivery,102,4.8,Will buy again,25 Mins,4%,QuickBite
+C141,Denim Jacket,Clothing,464,4.6,Fast delivery,3 Days,16%,StyleCart
+C142,Ankle Socks (Pack of 5),Clothing,1012,4,Perfect packaging,2 Days,6%,StyleCart
+C143,Women’s Kurti,Clothing,990,4.2,Good service,3 Days,3%,StyleCart
+C144,Ankle Socks (Pack of 5),Clothing,398,4.2,Highly recommended,2 Days,2%,StyleCart
+F348,Sushi (Restaurant K),Food Delivery,114,4.3,Fast delivery,30 Mins,10%,QuickBite
+G261,Amul Butter 100g,Grocery,60,4.3,Fresh and tasty,1 Day,2%,GroceMate
+G262,Fortune Oil 1L,Grocery,119,4.1,Fresh and tasty,Same Day,14%,GroceMate
+F349,Sushi (Restaurant L),Food Delivery,300,4.3,Excellent quality,45 Mins,14%,QuickBite
+C145,Sports Jacket,Clothing,1515,4.4,Will buy again,3 Days,3%,StyleCart
+G263,Sugar 1kg,Grocery,52,4.1,Fresh and tasty,1 Day,2%,GroceMate
+F350,Paneer Butter Masala,Food Delivery,236,4.2,Satisfying experience,30 Mins,15%,QuickBite
+G264,Tea Powder 250g,Grocery,178,4.6,Fast delivery,Same Day,16%,GroceMate
+F351,Burger (Restaurant K),Food Delivery,143,4.6,Highly recommended,35 Mins,20%,QuickBite
+C146,Cotton T-Shirt,Clothing,992,4.7,Satisfying experience,2 Days,18%,StyleCart
+F352,Margherita Pizza,Food Delivery,213,4.4,Fast delivery,30 Mins,4%,QuickBite
+G265,Organic Rice 1kg,Grocery,69,4.6,Fast delivery,1 Day,13%,GroceMate
+C147,Chinos Trousers,Clothing,1037,4.1,Comfortable and stylish,4 Days,2%,StyleCart
+C148,Cotton T-Shirt,Clothing,1198,4.6,Fast delivery,3 Days,16%,StyleCart
+C149,Denim Jacket,Clothing,1893,4.3,Fresh and tasty,4 Days,7%,StyleCart
+F353,Margherita Pizza,Food Delivery,235,4.1,Satisfying experience,35 Mins,4%,QuickBite
+C150,Formal Shirt,Clothing,1542,4.2,Comfortable and stylish,4 Days,8%,StyleCart
+G266,Amul Butter 100g,Grocery,55,4.3,Highly recommended,Same Day,7%,GroceMate
+F354,Pizza (Restaurant L),Food Delivery,249,4.7,Will buy again,30 Mins,12%,QuickBite
+C151,Formal Shirt,Clothing,1172,4.2,Will buy again,2 Days,13%,StyleCart
+G267,Fortune Oil 1L,Grocery,211,4,Perfect packaging,Same Day,6%,GroceMate
+G268,Milk (1L),Grocery,112,4.2,Highly recommended,1 Day,16%,GroceMate
+C152,Slim Fit Jeans,Clothing,1549,4.1,Perfect packaging,2 Days,9%,StyleCart
+C153,Formal Shirt,Clothing,1315,4.3,Highly recommended,2 Days,16%,StyleCart
+C154,Women’s Kurti,Clothing,1872,4.4,Good service,3 Days,18%,StyleCart
+F355,Pav Bhaji,Food Delivery,96,4.3,Satisfying experience,25 Mins,15%,QuickBite
+F356,Veg Thali,Food Delivery,219,4.6,Great value for money,35 Mins,14%,QuickBite
+C155,Ankle Socks (Pack of 5),Clothing,644,4.3,Good service,3 Days,12%,StyleCart
+G269,Fortune Oil 1L,Grocery,246,4.5,Fresh and tasty,Same Day,16%,GroceMate
+G270,Aashirvaad Atta 5kg,Grocery,133,4.2,Satisfying experience,Same Day,18%,GroceMate
+G271,Organic Rice 1kg,Grocery,151,4.4,Will buy again,1 Day,14%,GroceMate
+F357,Chicken Biryani,Food Delivery,194,4.8,Comfortable and stylish,30 Mins,12%,QuickBite
+F358,Paneer Butter Masala,Food Delivery,195,4,Highly recommended,35 Mins,17%,QuickBite
+C156,Running Shoes,Clothing,311,4.2,Satisfying experience,2 Days,7%,StyleCart
+C157,Chinos Trousers,Clothing,1527,4.3,Satisfying experience,4 Days,12%,StyleCart
+G272,Sugar 1kg,Grocery,117,4.1,Fresh and tasty,1 Day,16%,GroceMate
+G273,Tea Powder 250g,Grocery,247,4.1,Comfortable and stylish,Same Day,3%,GroceMate
+F359,Pav Bhaji,Food Delivery,125,4.3,Good service,30 Mins,15%,QuickBite
+G274,Amul Butter 100g,Grocery,188,4.4,Great value for money,1 Day,6%,GroceMate
+C158,Sports Jacket,Clothing,468,4.5,Comfortable and stylish,2 Days,5%,StyleCart
+C159,Running Shoes,Clothing,1210,4.1,Fresh and tasty,2 Days,4%,StyleCart
+F360,Pav Bhaji,Food Delivery,109,4.2,Fresh and tasty,30 Mins,10%,QuickBite
+G275,Tea Powder 250g,Grocery,178,4.4,Highly recommended,Same Day,10%,GroceMate
+F361,Sushi (Restaurant L),Food Delivery,211,4.7,Will buy again,30 Mins,6%,QuickBite
+C160,Cotton T-Shirt,Clothing,1547,4.3,Highly recommended,3 Days,16%,StyleCart
+G276,Milk (1L),Grocery,41,4.2,Great value for money,1 Day,20%,GroceMate
+G277,Toor Dal 500g,Grocery,235,4.2,Highly recommended,Same Day,19%,GroceMate
+C161,Graphic Hoodie,Clothing,1267,4.2,Good service,3 Days,12%,StyleCart
+C162,Chinos Trousers,Clothing,1560,4.2,Excellent quality,3 Days,10%,StyleCart
+F362,Chicken Wings,Food Delivery,144,4.1,Perfect packaging,25 Mins,7%,QuickBite
+C163,Slim Fit Jeans,Clothing,1980,4.5,Fresh and tasty,4 Days,15%,StyleCart
+F363,Sushi (Restaurant M),Food Delivery,285,4.4,Excellent quality,30 Mins,8%,QuickBite
+C164,Denim Jacket,Clothing,1867,4.1,Satisfying experience,3 Days,7%,StyleCart
+F364,Sushi (Restaurant M),Food Delivery,262,4.4,Comfortable and stylish,45 Mins,3%,QuickBite
+F365,Fried Rice,Food Delivery,166,4.4,Will buy again,25 Mins,17%,QuickBite
+C165,Formal Shirt,Clothing,730,4.2,Fresh and tasty,3 Days,4%,StyleCart
+C166,Slim Fit Jeans,Clothing,870,4.8,Perfect packaging,3 Days,5%,StyleCart
+F366,Fried Rice,Food Delivery,131,4.3,Will buy again,45 Mins,16%,QuickBite
+G278,Fortune Oil 1L,Grocery,131,4.6,Great value for money,Same Day,17%,GroceMate
+F367,Sushi (Restaurant K),Food Delivery,232,4.3,Good service,30 Mins,6%,QuickBite
+G279,Toor Dal 500g,Grocery,105,4.6,Fast delivery,Same Day,8%,GroceMate
+G280,Milk (1L),Grocery,146,4.4,Perfect packaging,Same Day,20%,GroceMate
+G281,Fortune Oil 1L,Grocery,145,4.8,Good service,1 Day,4%,GroceMate
+C167,Denim Jacket,Clothing,556,4.7,Perfect packaging,3 Days,12%,StyleCart
+F368,Paneer Butter Masala,Food Delivery,248,4.1,Highly recommended,45 Mins,20%,QuickBite
+F369,Sushi (Restaurant M),Food Delivery,266,4.3,Excellent quality,25 Mins,8%,QuickBite
+F370,Veg Thali,Food Delivery,166,4.3,Fast delivery,30 Mins,9%,QuickBite
+C168,Sports Jacket,Clothing,1628,4.6,Perfect packaging,3 Days,15%,StyleCart
+C169,Cotton T-Shirt,Clothing,1519,4.2,Will buy again,4 Days,9%,StyleCart
+G282,Milk (1L),Grocery,215,4.5,Satisfying experience,Same Day,6%,GroceMate
+C170,Ankle Socks (Pack of 5),Clothing,1278,4.4,Good service,2 Days,19%,StyleCart
+C171,Running Shoes,Clothing,1936,4.5,Excellent quality,4 Days,6%,StyleCart
+G283,Milk (1L),Grocery,98,4.2,Perfect packaging,Same Day,9%,GroceMate
+F371,Pizza (Restaurant M),Food Delivery,176,4.5,Good service,35 Mins,6%,QuickBite
+C172,Graphic Hoodie,Clothing,1740,4.5,Excellent quality,2 Days,16%,StyleCart
+F372,Burger (Restaurant M),Food Delivery,103,4.1,Highly recommended,25 Mins,16%,QuickBite
+F373,Sushi (Restaurant M),Food Delivery,187,4.7,Comfortable and stylish,45 Mins,11%,QuickBite
+F374,Masala Dosa,Food Delivery,109,4.5,Fast delivery,35 Mins,12%,QuickBite
+F375,Veg Thali,Food Delivery,228,4.7,Fresh and tasty,30 Mins,14%,QuickBite
+C173,Running Shoes,Clothing,412,4.2,Perfect packaging,2 Days,9%,StyleCart
+C174,Chinos Trousers,Clothing,431,4.4,Good service,2 Days,5%,StyleCart
+F376,Sushi (Restaurant K),Food Delivery,207,4,Comfortable and stylish,45 Mins,8%,QuickBite
+C175,Sports Jacket,Clothing,1314,4.5,Satisfying experience,4 Days,19%,StyleCart
+C176,Denim Jacket,Clothing,1835,4.2,Comfortable and stylish,2 Days,20%,StyleCart
+F377,Sushi (Restaurant L),Food Delivery,269,4.2,Will buy again,25 Mins,3%,QuickBite
+G284,Fortune Oil 1L,Grocery,98,4.8,Excellent quality,Same Day,13%,GroceMate
+G285,Toor Dal 500g,Grocery,244,4.6,Satisfying experience,Same Day,4%,GroceMate
+G286,Fortune Oil 1L,Grocery,177,4.4,Good service,Same Day,10%,GroceMate
+F378,Chicken Biryani,Food Delivery,261,4.2,Fresh and tasty,45 Mins,5%,QuickBite
+F379,Masala Dosa,Food Delivery,163,4,Comfortable and stylish,45 Mins,9%,QuickBite
+G287,Toor Dal 500g,Grocery,143,4.6,Good service,Same Day,11%,GroceMate
+C177,Sports Jacket,Clothing,355,4.6,Comfortable and stylish,4 Days,16%,StyleCart
+C178,Graphic Hoodie,Clothing,1564,4.3,Satisfying experience,2 Days,5%,StyleCart
+G288,Aashirvaad Atta 5kg,Grocery,174,4.6,Excellent quality,1 Day,13%,GroceMate
+G289,Milk (1L),Grocery,191,4.3,Satisfying experience,Same Day,8%,GroceMate
+G290,Organic Rice 1kg,Grocery,151,4.1,Fast delivery,1 Day,8%,GroceMate
+G291,Amul Butter 100g,Grocery,170,4.4,Fast delivery,Same Day,8%,GroceMate
+C179,Graphic Hoodie,Clothing,1415,4.2,Fast delivery,4 Days,19%,StyleCart
+C180,Running Shoes,Clothing,1566,4.5,Fast delivery,3 Days,10%,StyleCart
+G292,Sugar 1kg,Grocery,42,4.2,Perfect packaging,Same Day,13%,GroceMate
+G293,Britannia Bread,Grocery,185,4.6,Good service,Same Day,6%,GroceMate
+G294,Amul Butter 100g,Grocery,179,4.4,Perfect packaging,1 Day,12%,GroceMate
+F380,Margherita Pizza,Food Delivery,272,4.8,Excellent quality,35 Mins,13%,QuickBite
+F381,Margherita Pizza,Food Delivery,255,4.1,Comfortable and stylish,25 Mins,8%,QuickBite
+F382,Margherita Pizza,Food Delivery,92,4.5,Good service,45 Mins,15%,QuickBite
+G295,Tea Powder 250g,Grocery,100,4.3,Excellent quality,1 Day,19%,GroceMate
+C181,Running Shoes,Clothing,383,4.6,Perfect packaging,2 Days,12%,StyleCart
+C182,Running Shoes,Clothing,1932,4.3,Comfortable and stylish,4 Days,4%,StyleCart
+G296,Organic Rice 1kg,Grocery,221,4.2,Comfortable and stylish,Same Day,13%,GroceMate
+C183,Graphic Hoodie,Clothing,831,4.5,Perfect packaging,3 Days,16%,StyleCart
+C184,Formal Shirt,Clothing,1283,4.3,Perfect packaging,3 Days,19%,StyleCart
+F383,Burger (Restaurant K),Food Delivery,147,4.2,Will buy again,45 Mins,6%,QuickBite
+G297,Amul Butter 100g,Grocery,221,4.1,Comfortable and stylish,Same Day,14%,GroceMate
+C185,Running Shoes,Clothing,718,4.2,Perfect packaging,2 Days,4%,StyleCart
+C186,Slim Fit Jeans,Clothing,954,4.5,Satisfying experience,4 Days,13%,StyleCart
+G298,Maggi Noodles (4 pack),Grocery,75,4.1,Excellent quality,1 Day,10%,GroceMate
+G299,Milk (1L),Grocery,217,4.5,Fresh and tasty,Same Day,8%,GroceMate
+G300,Amul Butter 100g,Grocery,192,4.7,Good service,Same Day,3%,GroceMate
+F384,Veg Thali,Food Delivery,278,4.2,Satisfying experience,25 Mins,3%,QuickBite
+G301,Toor Dal 500g,Grocery,154,4,Great value for money,1 Day,13%,GroceMate
+G302,Amul Butter 100g,Grocery,228,4.1,Good service,Same Day,2%,GroceMate
+G303,Britannia Bread,Grocery,150,4.5,Satisfying experience,Same Day,18%,GroceMate
+F385,Pizza (Restaurant K),Food Delivery,96,4.3,Excellent quality,45 Mins,20%,QuickBite
+G304,Milk (1L),Grocery,107,4.7,Will buy again,1 Day,19%,GroceMate
+C187,Graphic Hoodie,Clothing,545,4.8,Excellent quality,2 Days,18%,StyleCart
+G305,Sugar 1kg,Grocery,102,4.1,Will buy again,1 Day,14%,GroceMate
+F386,Sushi (Restaurant K),Food Delivery,190,4.6,Perfect packaging,25 Mins,2%,QuickBite
+C188,Slim Fit Jeans,Clothing,1406,4,Will buy again,2 Days,7%,StyleCart
+F387,Chicken Wings,Food Delivery,112,4.1,Satisfying experience,35 Mins,5%,QuickBite
+G306,Aashirvaad Atta 5kg,Grocery,164,4.3,Excellent quality,1 Day,8%,GroceMate
+C189,Ankle Socks (Pack of 5),Clothing,1076,4.7,Perfect packaging,2 Days,2%,StyleCart
+C190,Cotton T-Shirt,Clothing,480,4.1,Will buy again,2 Days,12%,StyleCart
+G307,Sugar 1kg,Grocery,93,4.3,Highly recommended,Same Day,3%,GroceMate
+C191,Sports Jacket,Clothing,637,4.5,Good service,4 Days,19%,StyleCart
+G308,Maggi Noodles (4 pack),Grocery,48,4.2,Great value for money,Same Day,11%,GroceMate
+C192,Chinos Trousers,Clothing,1348,4.3,Perfect packaging,4 Days,4%,StyleCart
+F388,Pav Bhaji,Food Delivery,168,4.4,Comfortable and stylish,30 Mins,13%,QuickBite
+G309,Tea Powder 250g,Grocery,129,4.1,Perfect packaging,1 Day,9%,GroceMate
+G310,Amul Butter 100g,Grocery,230,4.5,Good service,1 Day,17%,GroceMate
+G311,Milk (1L),Grocery,101,4.6,Satisfying experience,1 Day,10%,GroceMate
+G312,Fortune Oil 1L,Grocery,221,4.8,Highly recommended,Same Day,20%,GroceMate
+F389,Pizza (Restaurant K),Food Delivery,106,4.6,Good service,25 Mins,13%,QuickBite
+G313,Aashirvaad Atta 5kg,Grocery,40,4.3,Great value for money,1 Day,18%,GroceMate
+G314,Aashirvaad Atta 5kg,Grocery,179,4.5,Fresh and tasty,Same Day,7%,GroceMate
+G315,Maggi Noodles (4 pack),Grocery,117,4.3,Highly recommended,1 Day,3%,GroceMate
+C193,Running Shoes,Clothing,1357,4.7,Good service,2 Days,14%,StyleCart
+C194,Slim Fit Jeans,Clothing,1506,4.4,Fresh and tasty,3 Days,18%,StyleCart
+G316,Toor Dal 500g,Grocery,184,4.4,Will buy again,Same Day,7%,GroceMate
+C195,Running Shoes,Clothing,818,4.3,Comfortable and stylish,3 Days,10%,StyleCart
+C196,Cotton T-Shirt,Clothing,360,4.7,Highly recommended,2 Days,13%,StyleCart
+G317,Organic Rice 1kg,Grocery,108,4.7,Highly recommended,Same Day,13%,GroceMate
+F390,Chicken Biryani,Food Delivery,120,4.1,Perfect packaging,35 Mins,6%,QuickBite
+C197,Cotton T-Shirt,Clothing,325,4.4,Satisfying experience,3 Days,18%,StyleCart
+G318,Tea Powder 250g,Grocery,113,4.1,Great value for money,1 Day,19%,GroceMate
+G319,Britannia Bread,Grocery,151,4.5,Great value for money,1 Day,15%,GroceMate
+F391,Sushi (Restaurant K),Food Delivery,184,4.4,Fresh and tasty,30 Mins,5%,QuickBite
+G320,Fortune Oil 1L,Grocery,79,4.2,Fast delivery,Same Day,15%,GroceMate
+F392,Veg Thali,Food Delivery,169,4.4,Fast delivery,35 Mins,8%,QuickBite
+C198,Sports Jacket,Clothing,1433,4,Satisfying experience,3 Days,11%,StyleCart
+G321,Fortune Oil 1L,Grocery,115,4.8,Good service,1 Day,8%,GroceMate
+C199,Slim Fit Jeans,Clothing,417,4.5,Satisfying experience,3 Days,19%,StyleCart
+F393,Pizza (Restaurant L),Food Delivery,198,4.7,Highly recommended,30 Mins,8%,QuickBite
+F394,Sushi (Restaurant L),Food Delivery,171,4.6,Perfect packaging,35 Mins,16%,QuickBite
+F395,Sushi (Restaurant K),Food Delivery,213,4.3,Highly recommended,45 Mins,14%,QuickBite
+F396,Burger (Restaurant K),Food Delivery,277,4.1,Great value for money,45 Mins,19%,QuickBite
+G322,Sugar 1kg,Grocery,140,4.7,Highly recommended,Same Day,11%,GroceMate
+F397,Sushi (Restaurant L),Food Delivery,234,4.4,Highly recommended,35 Mins,14%,QuickBite
+G323,Organic Rice 1kg,Grocery,213,4.2,Will buy again,Same Day,2%,GroceMate
+G324,Britannia Bread,Grocery,142,4.7,Fresh and tasty,Same Day,7%,GroceMate
+C200,Graphic Hoodie,Clothing,367,4.4,Will buy again,4 Days,13%,StyleCart
+F398,Chicken Wings,Food Delivery,115,4.1,Excellent quality,45 Mins,6%,QuickBite
+F399,Pizza (Restaurant K),Food Delivery,109,4.4,Highly recommended,35 Mins,13%,QuickBite
+F400,Chicken Biryani,Food Delivery,97,4.2,Fresh and tasty,30 Mins,7%,QuickBite
+G325,Toor Dal 500g,Grocery,107,4.5,Will buy again,1 Day,11%,GroceMate
+G326,Tea Powder 250g,Grocery,48,4.3,Comfortable and stylish,Same Day,20%,GroceMate
+F401,Sushi (Restaurant L),Food Delivery,272,4.7,Great value for money,30 Mins,12%,QuickBite
+G327,Organic Rice 1kg,Grocery,209,4.2,Satisfying experience,Same Day,20%,GroceMate
+C201,Cotton T-Shirt,Clothing,874,4.1,Great value for money,3 Days,13%,StyleCart
+C202,Chinos Trousers,Clothing,1080,4.7,Fresh and tasty,3 Days,4%,StyleCart
+C203,Formal Shirt,Clothing,1673,4.3,Perfect packaging,3 Days,9%,StyleCart
+G328,Sugar 1kg,Grocery,162,4,Perfect packaging,Same Day,5%,GroceMate
+C204,Women’s Kurti,Clothing,1562,4.4,Perfect packaging,2 Days,15%,StyleCart
+C205,Cotton T-Shirt,Clothing,1380,4.2,Excellent quality,2 Days,8%,StyleCart
+G329,Fortune Oil 1L,Grocery,117,4.1,Great value for money,Same Day,9%,GroceMate
+G330,Organic Rice 1kg,Grocery,206,4.5,Will buy again,1 Day,6%,GroceMate
+C206,Chinos Trousers,Clothing,404,4.6,Satisfying experience,4 Days,14%,StyleCart
+C207,Formal Shirt,Clothing,324,4.7,Will buy again,3 Days,17%,StyleCart
+F402,Margherita Pizza,Food Delivery,202,4.1,Perfect packaging,25 Mins,11%,QuickBite
+G331,Tea Powder 250g,Grocery,71,4.7,Perfect packaging,1 Day,10%,GroceMate
+C208,Chinos Trousers,Clothing,654,4.6,Good service,2 Days,14%,StyleCart
+G332,Sugar 1kg,Grocery,187,4.5,Highly recommended,Same Day,20%,GroceMate
+F403,Chicken Biryani,Food Delivery,188,4.6,Perfect packaging,25 Mins,18%,QuickBite
+F404,Sushi (Restaurant K),Food Delivery,174,4,Comfortable and stylish,25 Mins,8%,QuickBite
+C209,Denim Jacket,Clothing,1538,4.2,Great value for money,4 Days,15%,StyleCart
+G333,Fortune Oil 1L,Grocery,152,4.3,Great value for money,1 Day,11%,GroceMate
+C210,Slim Fit Jeans,Clothing,1066,4.6,Good service,4 Days,19%,StyleCart
+G334,Toor Dal 500g,Grocery,77,4.4,Highly recommended,1 Day,10%,GroceMate
+C211,Graphic Hoodie,Clothing,360,4.4,Fresh and tasty,3 Days,16%,StyleCart
+F405,Butter Naan,Food Delivery,245,4.5,Fast delivery,30 Mins,19%,QuickBite
+G335,Toor Dal 500g,Grocery,65,4.5,Good service,1 Day,8%,GroceMate
+C212,Slim Fit Jeans,Clothing,1561,4,Fresh and tasty,4 Days,5%,StyleCart
+G336,Organic Rice 1kg,Grocery,62,4.2,Perfect packaging,Same Day,2%,GroceMate
+C213,Slim Fit Jeans,Clothing,318,4.8,Will buy again,2 Days,13%,StyleCart
+C214,Ankle Socks (Pack of 5),Clothing,945,4.7,Comfortable and stylish,4 Days,11%,StyleCart
+F406,Masala Dosa,Food Delivery,146,4.5,Highly recommended,35 Mins,3%,QuickBite
+C215,Women’s Kurti,Clothing,1703,4.5,Fresh and tasty,4 Days,17%,StyleCart
+C216,Ankle Socks (Pack of 5),Clothing,1207,4.1,Fresh and tasty,4 Days,10%,StyleCart
+C217,Chinos Trousers,Clothing,553,4.7,Fast delivery,3 Days,7%,StyleCart
+F407,Burger (Restaurant K),Food Delivery,192,4.2,Excellent quality,45 Mins,19%,QuickBite
+G337,Maggi Noodles (4 pack),Grocery,118,4.1,Fresh and tasty,Same Day,2%,GroceMate
+F408,Butter Naan,Food Delivery,242,4.6,Great value for money,30 Mins,16%,QuickBite
+F409,Pizza (Restaurant K),Food Delivery,149,4.3,Fast delivery,35 Mins,18%,QuickBite
+G338,Fortune Oil 1L,Grocery,197,4,Excellent quality,1 Day,16%,GroceMate
+G339,Fortune Oil 1L,Grocery,87,4.2,Will buy again,1 Day,7%,GroceMate
+G340,Organic Rice 1kg,Grocery,71,4.6,Good service,Same Day,15%,GroceMate
+F410,Sushi (Restaurant K),Food Delivery,263,4.8,Good service,35 Mins,10%,QuickBite
+F411,Grilled Sandwich,Food Delivery,192,4.4,Excellent quality,45 Mins,6%,QuickBite
+C218,Formal Shirt,Clothing,798,4,Comfortable and stylish,3 Days,10%,StyleCart
+G341,Tea Powder 250g,Grocery,54,4.3,Fast delivery,Same Day,6%,GroceMate
+C219,Graphic Hoodie,Clothing,1421,4.2,Good service,2 Days,5%,StyleCart
+F412,Paneer Butter Masala,Food Delivery,260,4.1,Perfect packaging,25 Mins,4%,QuickBite
+C220,Running Shoes,Clothing,897,4.4,Good service,2 Days,14%,StyleCart
+F413,Veg Thali,Food Delivery,293,4.4,Highly recommended,30 Mins,2%,QuickBite
+G342,Maggi Noodles (4 pack),Grocery,166,4.3,Comfortable and stylish,Same Day,20%,GroceMate
+G343,Maggi Noodles (4 pack),Grocery,99,4.2,Perfect packaging,1 Day,7%,GroceMate
+C221,Women’s Kurti,Clothing,1125,4.6,Satisfying experience,2 Days,6%,StyleCart
+F414,Grilled Sandwich,Food Delivery,253,4.7,Comfortable and stylish,45 Mins,15%,QuickBite
+F415,Paneer Butter Masala,Food Delivery,104,4.1,Highly recommended,45 Mins,5%,QuickBite
+F416,Pizza (Restaurant K),Food Delivery,279,4.4,Comfortable and stylish,30 Mins,11%,QuickBite
+G344,Sugar 1kg,Grocery,126,4.4,Highly recommended,1 Day,7%,GroceMate
+C222,Denim Jacket,Clothing,1289,4.3,Perfect packaging,3 Days,15%,StyleCart
+G345,Amul Butter 100g,Grocery,206,4.7,Fast delivery,Same Day,19%,GroceMate
+F417,Burger (Restaurant M),Food Delivery,151,4.8,Perfect packaging,25 Mins,18%,QuickBite
+C223,Cotton T-Shirt,Clothing,1420,4.1,Good service,3 Days,5%,StyleCart
+C224,Graphic Hoodie,Clothing,1815,4.4,Excellent quality,2 Days,13%,StyleCart
+C225,Running Shoes,Clothing,419,4.4,Satisfying experience,2 Days,8%,StyleCart
+G346,Sugar 1kg,Grocery,81,4.5,Fresh and tasty,1 Day,3%,GroceMate
+G347,Tea Powder 250g,Grocery,49,4.1,Satisfying experience,1 Day,16%,GroceMate
+G348,Aashirvaad Atta 5kg,Grocery,90,4.7,Will buy again,Same Day,12%,GroceMate
+F418,Burger (Restaurant M),Food Delivery,206,4.6,Will buy again,35 Mins,16%,QuickBite
+G349,Britannia Bread,Grocery,119,4.6,Excellent quality,Same Day,17%,GroceMate
+F419,Fried Rice,Food Delivery,279,4.3,Highly recommended,30 Mins,17%,QuickBite
+F420,Chicken Wings,Food Delivery,172,4.6,Comfortable and stylish,25 Mins,3%,QuickBite
+C226,Running Shoes,Clothing,1435,4.2,Good service,2 Days,11%,StyleCart
+F421,Sushi (Restaurant M),Food Delivery,277,4.3,Will buy again,35 Mins,10%,QuickBite
+F422,Pav Bhaji,Food Delivery,268,4.8,Perfect packaging,25 Mins,13%,QuickBite
+F423,Masala Dosa,Food Delivery,193,4.7,Fast delivery,45 Mins,16%,QuickBite
+G350,Maggi Noodles (4 pack),Grocery,167,4,Highly recommended,Same Day,17%,GroceMate
+F424,Pizza (Restaurant K),Food Delivery,279,4.6,Will buy again,35 Mins,9%,QuickBite
+F425,Pizza (Restaurant M),Food Delivery,244,4.2,Good service,30 Mins,4%,QuickBite
+C227,Formal Shirt,Clothing,597,4,Satisfying experience,4 Days,15%,StyleCart
+G351,Toor Dal 500g,Grocery,119,4.8,Great value for money,1 Day,17%,GroceMate
+F426,Margherita Pizza,Food Delivery,221,4.6,Fresh and tasty,25 Mins,11%,QuickBite
+C228,Formal Shirt,Clothing,860,4.4,Excellent quality,4 Days,14%,StyleCart
+F427,Fried Rice,Food Delivery,279,4,Fresh and tasty,35 Mins,17%,QuickBite
+F428,Burger (Restaurant M),Food Delivery,255,4.3,Comfortable and stylish,35 Mins,10%,QuickBite
+C229,Formal Shirt,Clothing,845,4.5,Highly recommended,4 Days,12%,StyleCart
+C230,Ankle Socks (Pack of 5),Clothing,1855,4.4,Fast delivery,2 Days,18%,StyleCart
+C231,Graphic Hoodie,Clothing,1412,4.3,Comfortable and stylish,2 Days,11%,StyleCart
+F429,Burger (Restaurant K),Food Delivery,155,4.3,Excellent quality,35 Mins,6%,QuickBite
+F430,Butter Naan,Food Delivery,227,4.2,Satisfying experience,35 Mins,15%,QuickBite
+G352,Toor Dal 500g,Grocery,194,4.1,Good service,1 Day,4%,GroceMate
+C232,Women’s Kurti,Clothing,1155,4.6,Excellent quality,4 Days,15%,StyleCart
+C233,Slim Fit Jeans,Clothing,834,4.4,Fast delivery,4 Days,15%,StyleCart
+C234,Sports Jacket,Clothing,1128,4.5,Highly recommended,3 Days,14%,StyleCart
+C235,Cotton T-Shirt,Clothing,1448,4.1,Perfect packaging,3 Days,19%,StyleCart
+C236,Formal Shirt,Clothing,1729,4.6,Great value for money,2 Days,11%,StyleCart
+F431,Butter Naan,Food Delivery,188,4.4,Great value for money,35 Mins,7%,QuickBite
+C237,Denim Jacket,Clothing,1079,4.8,Good service,2 Days,19%,StyleCart
+G353,Toor Dal 500g,Grocery,48,4.7,Good service,1 Day,14%,GroceMate
+C238,Slim Fit Jeans,Clothing,943,4.2,Will buy again,2 Days,17%,StyleCart
+F432,Veg Thali,Food Delivery,112,4.2,Perfect packaging,25 Mins,8%,QuickBite
+F433,Sushi (Restaurant K),Food Delivery,180,4.5,Highly recommended,30 Mins,20%,QuickBite
+F434,Grilled Sandwich,Food Delivery,167,4.2,Excellent quality,45 Mins,12%,QuickBite
+C239,Women’s Kurti,Clothing,1151,4,Satisfying experience,2 Days,9%,StyleCart
+G354,Britannia Bread,Grocery,148,4.1,Perfect packaging,Same Day,9%,GroceMate
+F435,Veg Thali,Food Delivery,219,4.7,Will buy again,45 Mins,17%,QuickBite
+C240,Cotton T-Shirt,Clothing,1917,4.2,Comfortable and stylish,4 Days,6%,StyleCart
+G355,Tea Powder 250g,Grocery,229,4.7,Great value for money,1 Day,11%,GroceMate
+F436,Margherita Pizza,Food Delivery,185,4.3,Perfect packaging,30 Mins,13%,QuickBite
+G356,Aashirvaad Atta 5kg,Grocery,72,4.4,Satisfying experience,Same Day,3%,GroceMate
+C241,Running Shoes,Clothing,1392,4.7,Will buy again,3 Days,17%,StyleCart
+C242,Running Shoes,Clothing,1140,4.6,Fresh and tasty,4 Days,4%,StyleCart
+C243,Cotton T-Shirt,Clothing,1218,4.2,Excellent quality,3 Days,19%,StyleCart
+F437,Sushi (Restaurant M),Food Delivery,175,4.1,Excellent quality,35 Mins,14%,QuickBite
+F438,Fried Rice,Food Delivery,268,4.5,Satisfying experience,30 Mins,19%,QuickBite
+F439,Pav Bhaji,Food Delivery,236,4.8,Great value for money,30 Mins,18%,QuickBite
+C244,Ankle Socks (Pack of 5),Clothing,1838,4.6,Excellent quality,3 Days,16%,StyleCart
+C245,Ankle Socks (Pack of 5),Clothing,610,4.3,Will buy again,4 Days,2%,StyleCart
+F440,Chicken Biryani,Food Delivery,210,4.8,Fresh and tasty,30 Mins,9%,QuickBite
+F441,Butter Naan,Food Delivery,219,4.7,Good service,35 Mins,10%,QuickBite
+F442,Veg Thali,Food Delivery,299,4,Great value for money,25 Mins,14%,QuickBite
+G357,Aashirvaad Atta 5kg,Grocery,112,4.1,Great value for money,Same Day,16%,GroceMate
+G358,Amul Butter 100g,Grocery,59,4.3,Perfect packaging,Same Day,10%,GroceMate
+F443,Pizza (Restaurant K),Food Delivery,270,4.7,Great value for money,45 Mins,3%,QuickBite
+C246,Denim Jacket,Clothing,448,4.5,Will buy again,2 Days,9%,StyleCart
+F444,Chicken Wings,Food Delivery,94,4.2,Will buy again,30 Mins,11%,QuickBite
+G359,Tea Powder 250g,Grocery,60,4.2,Fast delivery,Same Day,11%,GroceMate
+G360,Sugar 1kg,Grocery,157,4.6,Comfortable and stylish,Same Day,19%,GroceMate
+G361,Tea Powder 250g,Grocery,187,4.1,Highly recommended,Same Day,9%,GroceMate
+F445,Masala Dosa,Food Delivery,133,4.4,Highly recommended,30 Mins,9%,QuickBite
+G362,Maggi Noodles (4 pack),Grocery,141,4.4,Excellent quality,Same Day,15%,GroceMate
+F446,Chicken Wings,Food Delivery,281,4.7,Fast delivery,25 Mins,8%,QuickBite
+C247,Slim Fit Jeans,Clothing,961,4.6,Comfortable and stylish,2 Days,15%,StyleCart
+G363,Fortune Oil 1L,Grocery,115,4.4,Perfect packaging,Same Day,6%,GroceMate
+G364,Tea Powder 250g,Grocery,127,4.6,Great value for money,Same Day,15%,GroceMate
+C248,Women’s Kurti,Clothing,1159,4.7,Highly recommended,3 Days,6%,StyleCart
+F447,Pizza (Restaurant M),Food Delivery,177,4.5,Highly recommended,45 Mins,20%,QuickBite
+F448,Chicken Biryani,Food Delivery,212,4.6,Highly recommended,35 Mins,7%,QuickBite
+C249,Sports Jacket,Clothing,1680,4.3,Fast delivery,3 Days,19%,StyleCart
+G365,Sugar 1kg,Grocery,100,4.4,Great value for money,1 Day,13%,GroceMate
+C250,Running Shoes,Clothing,1705,4.7,Satisfying experience,4 Days,2%,StyleCart
+C251,Slim Fit Jeans,Clothing,1613,4.7,Highly recommended,4 Days,6%,StyleCart
+F449,Burger (Restaurant M),Food Delivery,278,4.2,Comfortable and stylish,45 Mins,4%,QuickBite
+C252,Slim Fit Jeans,Clothing,1485,4.1,Comfortable and stylish,4 Days,2%,StyleCart
+G366,Britannia Bread,Grocery,208,4.8,Fast delivery,Same Day,5%,GroceMate
+F450,Pizza (Restaurant K),Food Delivery,179,4.6,Perfect packaging,25 Mins,14%,QuickBite
+G367,Organic Rice 1kg,Grocery,213,4.1,Highly recommended,1 Day,14%,GroceMate
+C253,Denim Jacket,Clothing,642,4.1,Perfect packaging,4 Days,18%,StyleCart
+C254,Ankle Socks (Pack of 5),Clothing,645,4.1,Excellent quality,4 Days,14%,StyleCart
+F451,Butter Naan,Food Delivery,186,4.1,Satisfying experience,45 Mins,9%,QuickBite
+C255,Women’s Kurti,Clothing,1434,4.5,Great value for money,2 Days,12%,StyleCart
+C256,Chinos Trousers,Clothing,551,4.2,Satisfying experience,2 Days,7%,StyleCart
+G368,Sugar 1kg,Grocery,178,4.7,Great value for money,1 Day,18%,GroceMate
+C257,Chinos Trousers,Clothing,865,4.7,Good service,2 Days,20%,StyleCart
+C258,Graphic Hoodie,Clothing,1418,4.4,Will buy again,3 Days,6%,StyleCart
+C259,Graphic Hoodie,Clothing,596,4.2,Satisfying experience,3 Days,17%,StyleCart
+G369,Sugar 1kg,Grocery,61,4.7,Great value for money,Same Day,13%,GroceMate
+C260,Slim Fit Jeans,Clothing,1915,4.1,Will buy again,4 Days,6%,StyleCart
+G370,Toor Dal 500g,Grocery,151,4.1,Great value for money,1 Day,20%,GroceMate
+G371,Maggi Noodles (4 pack),Grocery,91,4,Highly recommended,Same Day,7%,GroceMate
+C261,Sports Jacket,Clothing,957,4.6,Highly recommended,4 Days,10%,StyleCart
+C262,Slim Fit Jeans,Clothing,688,4.5,Excellent quality,4 Days,13%,StyleCart
+G372,Milk (1L),Grocery,94,4,Comfortable and stylish,1 Day,15%,GroceMate
+G373,Sugar 1kg,Grocery,56,4.7,Perfect packaging,Same Day,6%,GroceMate
+G374,Amul Butter 100g,Grocery,180,4.1,Perfect packaging,Same Day,19%,GroceMate
+G375,Aashirvaad Atta 5kg,Grocery,116,4.4,Good service,Same Day,10%,GroceMate
+C263,Sports Jacket,Clothing,1011,4.1,Good service,2 Days,17%,StyleCart
+F452,Sushi (Restaurant K),Food Delivery,196,4.6,Highly recommended,25 Mins,10%,QuickBite
+C264,Chinos Trousers,Clothing,734,4.7,Good service,4 Days,7%,StyleCart
+G376,Amul Butter 100g,Grocery,250,4.1,Satisfying experience,1 Day,15%,GroceMate
+C265,Chinos Trousers,Clothing,1582,4.7,Fresh and tasty,3 Days,18%,StyleCart
+G377,Toor Dal 500g,Grocery,48,4.6,Excellent quality,Same Day,8%,GroceMate
+F453,Pizza (Restaurant L),Food Delivery,280,4.5,Highly recommended,30 Mins,10%,QuickBite
+C266,Denim Jacket,Clothing,671,4.5,Comfortable and stylish,4 Days,9%,StyleCart
+F454,Sushi (Restaurant K),Food Delivery,211,4.6,Perfect packaging,30 Mins,16%,QuickBite
+G378,Milk (1L),Grocery,219,4.8,Excellent quality,1 Day,14%,GroceMate
+F455,Sushi (Restaurant K),Food Delivery,257,4.5,Fast delivery,45 Mins,20%,QuickBite
+G379,Aashirvaad Atta 5kg,Grocery,205,4.2,Comfortable and stylish,1 Day,5%,GroceMate

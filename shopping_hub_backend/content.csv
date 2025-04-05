@@ -1,0 +1,78 @@
+import csv
+import random
+
+# Sample data
+clothing_products = [
+    "Cotton T-Shirt", "Slim Fit Jeans", "Denim Jacket", "Graphic Hoodie", "Formal Shirt",
+    "Running Shoes", "Ankle Socks (Pack of 5)", "Chinos Trousers", "Sports Jacket", "Women’s Kurti"
+]
+grocery_products = [
+    "Organic Rice 1kg", "Toor Dal 500g", "Aashirvaad Atta 5kg", "Amul Butter 100g", "Britannia Bread",
+    "Sugar 1kg", "Milk (1L)", "Tea Powder 250g", "Fortune Oil 1L", "Maggi Noodles (4 pack)"
+]
+food_delivery_products = [
+    "Paneer Butter Masala", "Chicken Biryani", "Margherita Pizza", "Masala Dosa", "Chicken Wings",
+    "Grilled Sandwich", "Butter Naan", "Veg Thali", "Fried Rice", "Pav Bhaji"
+]
+
+# Adding burger, pizza, and sushi variations
+new_food_items = ["Burger", "Pizza", "Sushi"]
+for item in new_food_items:
+    for i in range(3):
+        food_delivery_products.append(f"{item} (Restaurant {chr(75 + i)})")
+
+platforms = {"Clothing": "StyleCart", "Grocery": "GroceMate", "Food Delivery": "QuickBite"}
+
+def random_review():
+    reviews = [
+        "Excellent quality", "Comfortable and stylish", "Fresh and tasty", "Highly recommended",
+        "Great value for money", "Will buy again", "Perfect packaging", "Fast delivery",
+        "Good service", "Satisfying experience"
+    ]
+    return random.choice(reviews)
+
+def random_delivery(category):
+    if category == "Clothing":
+        return random.choice(["2 Days", "3 Days", "4 Days"])
+    elif category == "Grocery":
+        return random.choice(["Same Day", "1 Day"])
+    elif category == "Food Delivery":
+        return random.choice(["25 Mins", "30 Mins", "35 Mins", "45 Mins"])
+    return "Unknown"
+
+entries = []
+categories = ["Clothing", "Grocery", "Food Delivery"]
+product_counts = {"Clothing": 0, "Grocery": 0, "Food Delivery": 0}
+max_entries = 500
+
+while len(entries) < max_entries:
+    category = random.choice(categories)
+    if category == "Clothing":
+        product = random.choice(clothing_products)
+        product_id = f"C{101 + product_counts['Clothing']:03}"
+        price = random.randint(299, 1999)
+    elif category == "Grocery":
+        product = random.choice(grocery_products)
+        product_id = f"G{201 + product_counts['Grocery']:03}"
+        price = random.randint(40, 250)
+    else:
+        product = random.choice(food_delivery_products)
+        product_id = f"F{301 + product_counts['Food Delivery']:03}"
+        price = random.randint(90, 300)
+
+    rating = round(random.uniform(4.0, 4.8), 1)
+    review = random_review()
+    delivery_time = random_delivery(category)
+    discount = f"{random.randint(2, 20)}%"
+    platform = platforms[category]
+
+    entries.append([
+        product_id, product, category, price, rating, review, delivery_time, discount, platform
+    ])
+    product_counts[category] += 1
+
+# Save to CSV
+with open("ecommerce_dataset_500_entries_updated.csv", "w", newline="", encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerow(["ProductID", "ProductName", "Category", "Price", "CustomerRating", "Reviews", "DeliveryTime", "Discount", "Platform"])
+    writer.writerows(entries)
